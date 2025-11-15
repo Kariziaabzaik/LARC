@@ -17,6 +17,12 @@ Este repositório contém os códigos e simulações desenvolvidas para a ativid
 * **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Leitura_Analógica-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/447614617003951105)
 
 ---
+### 3. Controle de Servo Motor (Sweep)
+
+* **Descrição:** Este código faz um servo motor varrer continuamente de 0 a 180 graus e depois retornar de 180 a 0 graus.
+* **Código-Fonte:** [**`Controle_servo.ino`**](./Controle_servo.ino)
+
+---
 1.  Clique no link de "Código-Fonte" para ver o script `.ino` usado.
 2.  Clique no "badge" da simulação para abrir o projeto no Wokwi.
 3.  No Wokwi, clique no botão de **Play** verde para iniciar a simulação.
