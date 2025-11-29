@@ -10,6 +10,8 @@ Este repositório contém os códigos e simulações desenvolvidas para a ativid
 * **Código-Fonte:** [**`Comunicacao_serial.ino`**](./Comunicacao_serial.ino)
 * **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/447615334056001537)
 
+---
+
 ### 2. Leitura Analógica
 
 * **Descrição:** Exemplo de como o ESP32 pode ler valores de sensores analógicos (como um potenciômetro), convertendo a tensão de entrada em um valor digital (de 0 a 4095).
