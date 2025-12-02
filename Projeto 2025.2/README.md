@@ -2,7 +2,7 @@
 
 Este repositório documenta a implementação de um sistema embarcado utilizando ESP32. O projeto foi desenvolvido em etapas incrementais (versões 0.1 a 1.0).
 
-## 🗂️ Versões do Projeto
+## Versões do Projeto
 
 O código foi dividido para validar cada conceito isoladamente antes da integração final:
 
