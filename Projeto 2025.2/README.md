@@ -10,6 +10,11 @@ O código foi dividido para validar cada conceito isoladamente antes da integra�
 * **Conceito:** Conversão Analógico-Digital.
 * **Descrição:** Implementação da leitura de sensores (como potenciômetros) através das portas analógicas do ESP32. O foco desta versão é garantir a aquisição correta dos dados de entrada.
 * **Arquivo:** `v0.1_Leitura_de_ADC.ino`
-
+ 
+### 🔹 v0.2 - Interrupção Temporizada (Atual)
+* **Foco:** Base de Tempo.
+* **Descrição:** Configuração do hardware timer para gerar eventos periódicos precisos. O código demonstra como contar segundos em segundo plano sem bloquear o `void loop`, utilizando interrupções e flags de controle.
+* **Arquivo:** `v0.2_Interrupcao_Temporizada.ino`
+* 
 ---
 *Projeto desenvolvido pela LARC (Liga Acadêmica de Robótica e Controle) - 2025.2*
