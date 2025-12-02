@@ -15,6 +15,6 @@ O código foi dividido para validar cada conceito isoladamente antes da integra�
 * **Foco:** Base de Tempo.
 * **Descrição:** Configuração do hardware timer para gerar eventos periódicos precisos. O código demonstra como contar segundos em segundo plano sem bloquear o `void loop`, utilizando interrupções e flags de controle.
 * **Arquivo:** `v0.2_Interrupcao_Temporizada.ino`
-* 
+  
 ---
 *Projeto desenvolvido pela LARC (Liga Acadêmica de Robótica e Controle) - 2025.2*
