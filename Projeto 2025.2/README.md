@@ -9,7 +9,7 @@ O código foi dividido para validar cada conceito isoladamente antes da integra�
 ### v0.1 - Leitura de ADC
 * **Descrição:** Implementação da leitura de sensores (como potenciômetros) através das portas analógicas do ESP32. O foco desta versão é garantir a aquisição correta dos dados de entrada.
 * **Código-Fonte:** [**`v0.1_Leitura_de_ADC.ino`**](./v0.1_Leitura_de_ADC.ino)
-* **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/447615334056001537)
+* **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/449264190995390465)
 
 ### v0.2 - Interrupção Temporizada
 * **Descrição:** Configuração do hardware timer para gerar eventos periódicos precisos. O código demonstra como contar segundos em segundo plano sem bloquear o `void loop`, utilizando interrupções e flags de controle.
