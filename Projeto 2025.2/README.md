@@ -6,15 +6,19 @@ Este repositório documenta a implementação de um sistema embarcado utilizando
 
 O código foi dividido para validar cada conceito isoladamente antes da integração final:
 
-### 🔹 v0.1 - Leitura de ADC
-* **Conceito:** Conversão Analógico-Digital.
+### v0.1 - Leitura de ADC
 * **Descrição:** Implementação da leitura de sensores (como potenciômetros) através das portas analógicas do ESP32. O foco desta versão é garantir a aquisição correta dos dados de entrada.
-* **Arquivo:** `v0.1_Leitura_de_ADC.ino`
- 
-### 🔹 v0.2 - Interrupção Temporizada (Atual)
-* **Foco:** Base de Tempo.
+* **Código-Fonte:** [**`v0.1_Leitura_de_ADC.ino`**](./v0.1_Leitura_de_ADC.ino)
+* **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/447615334056001537)
+
+### v0.2 - Interrupção Temporizada
 * **Descrição:** Configuração do hardware timer para gerar eventos periódicos precisos. O código demonstra como contar segundos em segundo plano sem bloquear o `void loop`, utilizando interrupções e flags de controle.
-* **Arquivo:** `v0.2_Interrupcao_Temporizada.ino`
-  
+* **Código-Fonte:** [**`v0.2_Interrupcao_Temporizada.ino`**](./v0.2_Interrupcao_Temporizada.ino)
+* **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/447615334056001537)
 ---
+
+1.  Clique no link de "Código-Fonte" para ver o script `.ino` usado.
+2.  Clique no "badge" da simulação para abrir o projeto no Wokwi.
+3.  No Wokwi, clique no botão de **Play** verde para iniciar a simulação.
+
 *Projeto desenvolvido pela LARC (Liga Acadêmica de Robótica e Controle) - 2025.2*
