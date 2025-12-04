@@ -18,6 +18,9 @@ O código foi dividido para validar cada conceito isoladamente antes da integra�
 
 ### v0.4 - Servo com leitura ADC
 * **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/449433168449678337)
+
+### v0.5 - Servo com leitura ADC e temporização
+**Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/449264190995390465)
 ---
 
 1.  Clique no link de "Código-Fonte" para ver o script `.ino` usado.
