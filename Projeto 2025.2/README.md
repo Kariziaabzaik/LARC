@@ -17,9 +17,11 @@ O código foi dividido para validar cada conceito isoladamente antes da integra�
 * **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/449264024976435201)
 
 ### v0.4 - Servo com leitura ADC
+* **Código-Fonte:** [**`v0.4_Servo_Leitura_ADC.ino`**](./v0.4_Servo_Leitura_ADC.ino)
 * **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/449433168449678337)
 
 ### v0.5 - Servo com leitura ADC e temporização
+* **Código-Fonte:** [**`v0.5_Servo_Leitura_ADC_Timer.ino`**](./v0.5_Servo_Leitura_ADC_Timer.ino)
 * **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/449264190995390465)
 
 ### v0.6 - Servo com leitura ADC, temporização e comunicação serial
