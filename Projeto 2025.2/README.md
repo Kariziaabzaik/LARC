@@ -15,6 +15,9 @@ O código foi dividido para validar cada conceito isoladamente antes da integra�
 * **Descrição:** Configuração do hardware timer para gerar eventos periódicos precisos. O código demonstra como contar segundos em segundo plano sem bloquear o `void loop`, utilizando interrupções e flags de controle.
 * **Código-Fonte:** [**`v0.2_Interrupcao_Temporizada.ino`**](./v0.2_Interrupcao_Temporizada.ino)
 * **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/449264024976435201)
+
+### v0.4 - Servo com leitura ADC
+* **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/449433168449678337)
 ---
 
 1.  Clique no link de "Código-Fonte" para ver o script `.ino` usado.
