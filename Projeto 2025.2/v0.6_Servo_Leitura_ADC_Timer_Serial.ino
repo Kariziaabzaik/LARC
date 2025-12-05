@@ -6,6 +6,7 @@ const int pino1 = 13;
 const int pino2 = 23;
 int valor1, valor2, dtc1, dtc2;
 volatile bool flag = false;
+String texto;
 
 hw_timer_t *timer = NULL;
 
@@ -29,7 +30,8 @@ void setup(){
 void loop(){
 
   if(Serial.available()>0){
-    valor2 = Serial.parseInt();
+    texto = Serial.readStringUntil('\n');
+    valor2 = texto.toInt();
     dtc2 = 1632 + valor2*36.1778;
     ledcWrite(pino2, dtc2);
   }
