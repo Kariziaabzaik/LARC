@@ -17,7 +17,7 @@ O código foi dividido para validar cada conceito isoladamente antes da integra�
 * **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/449264024976435201)
 
 ### v0.3 - Saturação PWM
-* **Código-Fonte:** [**`v0.3_Saturação_PWM.ino`**](./v0.3_Saturação_PWM.ino)
+* **Código-Fonte:** [**`v0.3_Saturacao_PWM.ino`**](./v0.3_Saturacao_PWM.ino)
 
 ### v0.4 - Servo com leitura ADC
 * **Descrição:** Nesta versão, o controle do servomotor é realizado manipulando diretamente os periféricos de PWM do ESP32 (LEDC), sem o uso de bibliotecas externas de servo. O código implementa uma lógica de conversão manual entre a leitura do ADC (12 bits) e o ciclo de trabalho (Duty Cycle) do PWM (16 bits).
