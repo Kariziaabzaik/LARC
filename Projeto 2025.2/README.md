@@ -26,7 +26,7 @@ O código foi dividido para validar cada conceito isoladamente antes da integra�
 
 ### v0.6 - Servo com leitura ADC, temporização e comunicação serial
 * **Código-Fonte:** [**`v0.6_Servo_Leitura_ADC_Timer_Serial.ino`**](./v0.6_Servo_Leitura_ADC_Timer_Serial.ino)
-* **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/305569599398609473)
+* **Simulação Wokwi:** [![Wokwi](https://img.shields.io/badge/Wokwi-Simulação_Serial-blue?logo=wokwi&logoColor=white)](https://wokwi.com/projects/449455851932557313)
 ---
 
 1.  Clique no link de "Código-Fonte" para ver o script `.ino` usado.
